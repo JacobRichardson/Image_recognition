@@ -1,0 +1,29 @@
+.width {
+    width: 100%;
+}
+
+.margin-bottom {
+    margin-bottom: 200px;
+}
+.img {
+    height: 100%;
+    width: 100%;
+    display: none;
+}
+
+.background-color {
+    background-color : #e5e5e5
+}
+
+.light-blue {
+    color : #28ADD6;
+}
+
+
+.hidden {
+    display: none;
+}
+
+.description {
+    text-decoration: underline;
+}
